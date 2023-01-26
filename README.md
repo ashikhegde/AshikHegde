@@ -6,7 +6,7 @@
 - 🏢 **Recently completed my 8 month Internship at Ratehub as a Software Developer. Also, I Worked in Accenture Solutions India as a Software Engineer for 3 Years and Interned at Express Analytics for a Year.**
 
 - 📫 **a4hegde@uwaterloo.ca**
-https://twitter.com/Ashik_hegde2
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Ashik_hegde2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Ashik_hegde2" height="30" width="40" /></a>
